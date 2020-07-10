@@ -1,4 +1,3 @@
-# Python; Introduction to Data Structures and Algorithms
 import random
 
 # Arranging Array Algorithm
@@ -37,5 +36,3 @@ print(organize_data())
 # Inside/Analyzing: I have included the user-interface by simply using the input method, in addition
 # I added a "for loop". For the purpose of validating each numbers present in the array. 
 # With that; the result should be the numbers listed, in order. 
-
-# Challenge 2; Linear Algorithm
